@@ -6,4 +6,4 @@ Git has a mutable index called stage.
 I Love You
 
 Creating a new branch is quick.
-a  new feature1
+Creat a new feature1!
